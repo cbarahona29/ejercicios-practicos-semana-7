@@ -94,6 +94,6 @@ public class CafeExpressUNI {
             }
         }
 
-        entrada.close();
+        System.exit(0);
     }
 }
